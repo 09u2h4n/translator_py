@@ -17,5 +17,5 @@ This module translating between 2 languages
 ```
 
 ## TODO
-Code will be optimized
+Code will be optimized\n
 Get languages and other methods will be added
